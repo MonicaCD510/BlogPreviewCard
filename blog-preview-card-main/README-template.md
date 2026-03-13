@@ -1,6 +1,9 @@
- Blog Preview Card
+cd Blog Preview Card
 
 This project is a solution to the Blog Preview Card challenge from Frontend Mentor. The goal was to recreate the design using HTML and CSS and implement hover and focus states for interactive elements.
+
+Monica Davila
+
 
 Built with:
 HTML  
@@ -13,5 +16,3 @@ AI Collaboration:
 AI tools were used to help troubleshoot layout issues and clarify parts of the development workflow.
 
 Author:
-Monica Davila
-
